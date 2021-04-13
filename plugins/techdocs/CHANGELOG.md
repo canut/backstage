@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 0.7.2
+
+### Patch Changes
+
+- 18f7345a6: Add borders to TechDocs tables and increase font size. Fixes #5264 and #5276.
+- Updated dependencies [5d0740563]
+- Updated dependencies [5cafcf452]
+- Updated dependencies [86a95ba67]
+- Updated dependencies [e27cb6c45]
+  - @backstage/catalog-model@0.7.7
+  - @backstage/core@0.7.5
+
 ## 0.7.1
 
 ### Patch Changes
